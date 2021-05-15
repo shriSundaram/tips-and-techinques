@@ -1,2 +1,2 @@
-# tips-and-techinques
-learned to easily debug the code
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
